@@ -1,3 +1,4 @@
 Creando archivo en GitHub
 Parte del curso de Git
-Todo esto se hizo desde GitHub.com, nada degit ni git bash
+Todo esto se hizo desde GitHub.com, nada de git ni git bash
+Toco hacer otro commit  jajaja
